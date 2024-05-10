@@ -7,7 +7,7 @@ using System.Web;
 namespace Demo.Models
 {
 
-    // I have created Database named Sales1
+    // I have created Database Table named Sales1
     public class Sale
     {
         [Key]
